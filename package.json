@@ -3,6 +3,8 @@
   "version": "0.0.1",
   "description": "IPFS router for a Workbox service worker.",
   "license": "MIT",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "files": [
     "lib"
   ],

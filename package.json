@@ -1,7 +1,7 @@
 {
   "name": "workbox-ipfs",
   "version": "0.0.0",
-  "description": "Utility for workbox to use IPFS in your PWA.",
+  "description": "IPFS router for a Workbox service worker.",
   "license": "MIT",
   "files": [
     "lib"

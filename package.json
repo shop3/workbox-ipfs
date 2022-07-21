@@ -1,6 +1,6 @@
 {
   "name": "workbox-ipfs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "IPFS router for a Workbox service worker.",
   "license": "MIT",
   "main": "lib/index.js",

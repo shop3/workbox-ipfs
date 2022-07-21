@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.2](https://github.com/shop3/workbox-ipfs/compare/v0.0.1...v0.0.2) (2022-07-21)
+
+
+### Bug Fixes
+
+* fixed missing properties in package.json ([557768d](https://github.com/shop3/workbox-ipfs/commit/557768dd1e356d232147dc0e56dae5f850151417))
+
 ### 0.0.1 (2022-07-21)
 
 

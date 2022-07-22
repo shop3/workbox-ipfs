@@ -30,11 +30,6 @@
     "commit-msg": "commitlint --edit",
     "prepublishOnly": "npm run build"
   },
-  "dependencies": {
-    "ipfs-core": "^0.15.1",
-    "ipfs-http-response": "^3.0.1",
-    "is-ipfs": "^6.0.2"
-  },
   "peerDependencies": {
     "workbox-routing": "^6.5.3"
   },
@@ -55,6 +50,9 @@
     "eslint-plugin-prettier": "^4.0.0",
     "html-webpack-plugin": "^5.5.0",
     "husky": "^8.0.1",
+    "ipfs-core": "^0.15.1",
+    "ipfs-http-response": "^3.0.1",
+    "is-ipfs": "^6.0.2",
     "lint-staged": "^13.0.1",
     "path-browserify": "^1.0.1",
     "prettier": "^2.6.2",

@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.3](https://github.com/shop3/workbox-ipfs/compare/v0.0.2...v0.0.3) (2022-07-22)
+
+
+### Bug Fixes
+
+* removed ipfs npm dependencies ([ff62132](https://github.com/shop3/workbox-ipfs/commit/ff62132cebd3220054717d6f9692840925454374))
+
 ### [0.0.2](https://github.com/shop3/workbox-ipfs/compare/v0.0.1...v0.0.2) (2022-07-21)
 
 

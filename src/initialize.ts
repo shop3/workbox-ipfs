@@ -9,8 +9,12 @@ declare const self: ServiceWorkerGlobalScope & {
 };
 
 export function initialize(options?: Options) {
-  create(options).then((ipfs) => {
-    self.ipfs = ipfs;
+  self.addEventListener('install', (event) => {
+    event.waitUntil(
+      create(options).then((ipfs) => {
+        self.ipfs = ipfs;
+      })
+    );
   });
 
   const router = new Router();

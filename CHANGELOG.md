@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.4](https://github.com/shop3/workbox-ipfs/compare/v0.0.3...v0.0.4) (2022-07-25)
+
+
+### Features
+
+* wait until ipfs is ready ([0e2ad2b](https://github.com/shop3/workbox-ipfs/commit/0e2ad2ba5513499817285e293b421de4d3cb5dab))
+
 ### [0.0.3](https://github.com/shop3/workbox-ipfs/compare/v0.0.2...v0.0.3) (2022-07-22)
 
 

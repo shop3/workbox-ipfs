@@ -2,6 +2,23 @@
 
 IPFS router for a Workbox service worker.
 
+## Table of content
+- [How does it work](#how-does-it-work)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Install Dev Environment](#install-dev-environment)
+- [Run Dev Application](#run-dev-application)
+
+## How does it work
+
+Once installed and initialized the IPFS router intercept and reply to IPFS urls and paths.
+
+Valid requests are:
+- IPFS paths: `/ipfs/Qme7ss3ARVgxv6rXqVPiikMJ8u2NLgmgszg13pYrDKEoiu`
+- IPNS paths: `/ipns/github.com`
+- IPFS urls: `https://ipfs.io/ipfs/Qme7ss3ARVgxv6rXqVPiikMJ8u2NLgmgszg13pYrDKEoiu`
+- IPNS urls: `https://ipfs.io/ipns/github.com`
+
 ## Installation
 
 ```bash

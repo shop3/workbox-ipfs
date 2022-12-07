@@ -50,7 +50,7 @@
     "eslint-plugin-prettier": "^4.0.0",
     "html-webpack-plugin": "^5.5.0",
     "husky": "^8.0.1",
-    "ipfs-core": "^0.15.1",
+    "ipfs-core": "^0.17.0",
     "ipfs-http-response": "^3.0.1",
     "is-ipfs": "^6.0.2",
     "lint-staged": "^13.0.1",
